@@ -1,0 +1,5 @@
+site_name: Johnny's Notes
+nav:
+  - Home: index.md
+  - MC: mc.md
+theme: readthedocs
