@@ -1,5 +1,9 @@
 site_name: Johnny's Notes
+site_url: https://example.com/
 nav:
   - Home: index.md
-  - MC: mc.md
+  - MC:
+      - "1st": "mc.md"
+  - MarkDown:
+      - "example": example.md
 theme: readthedocs
